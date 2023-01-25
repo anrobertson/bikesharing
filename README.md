@@ -27,6 +27,7 @@ The heat maps above show usage by the hour. In the "Trips by Weekday per Hour" w
 ### Starting and Ending Locations
 ![](images/topstart.png)
 ![](images/topend.png)
+
 When it comes to location, we can see that the starting and ending locations are not too far in distance from the start station, to its' ending station. From this information, one can decide how many Citibike shops to create and have running for bike maintenance. 
 
 ## Summary
