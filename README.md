@@ -1,5 +1,7 @@
 # Bikesharing Analysis
 
+## [Link to dashboard](https://public.tableau.com/app/profile/alina.n.robertson/viz/BikesharingAnalysis_16745733932000/Dashboard4 "Link to dashboard")
+
 ## Overview
  Using public data from New York's Citibike, I utilized Jupyter Notebook and Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, I created a set of visualizations through Tableau. This can allow for research for cities that would like to create this service for use.
  
